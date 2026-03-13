@@ -1,4 +1,4 @@
-![](https://github.com/leandrogallo-dev/img-url-repository/blob/main/bg1.jpg?raw=true)
+![](https://github.com/leandrogallo-dev/img-url-repository/blob/main/bg1.png?raw=true)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/leandro-gallo-31280a2b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandrogallo698@gmail.com) 
 
