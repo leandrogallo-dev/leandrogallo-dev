@@ -1,4 +1,4 @@
-![banner](https://github.com/leandrogallo-dev/img-url-repository/blob/main/bg1.png?raw=true)
+<img src="https://github.com/leandrogallo-dev/img-url-repository/blob/main/bg8.gif?raw=true" alt="banner" width="100%">
 
 # Mi Perfil
 
