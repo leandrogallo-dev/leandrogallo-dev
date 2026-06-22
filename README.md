@@ -1,6 +1,6 @@
 <img src="https://github.com/leandrogallo-dev/img-url-repository/blob/main/bg8.gif?raw=true" alt="banner" width="100%">
 
-# Mi Perfil
+# ꕤ Acerca de mi
 
 **Junior Data Analyst**, Argentina 🇦🇷  
 Estudiante de Ingeniería en Sistemas (UNICEN) · Técnico en Informática  
